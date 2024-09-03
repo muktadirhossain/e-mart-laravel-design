@@ -1,0 +1,58 @@
+#logo{
+    height: 50px;
+}
+
+.carrousel-bg{
+    background-color: #FEEAE9;
+    padding: 50px;
+}
+
+.carrousel_img{
+    height: 350px;
+}
+.carrousel_price{
+    font-weight: bold;
+    font-size: 34px;
+    color: #FA2176;
+}
+.carrousel_heading{
+    color: #FA2176;
+}
+
+/* section */
+.section_heading{
+    font-size: 60px;
+    font-weight: 700;
+    color: #FA2176;
+}
+
+
+#contact_section{
+    background-color: bisque;
+    min-height: 250px;
+    margin-top: 100px;
+}
+
+.box{
+    /* height: 200px; */
+    /* background-color: blueviolet; */
+}
+
+.btn-primary-custom{
+    background-color: #FA2176;
+    color: white;
+}
+
+.btn-primary-custom:hover{
+    background-color: #c91a60;
+    color: white;
+}
+
+.card-hover{
+    cursor: pointer;
+}
+
+.card-hover:hover{
+    box-shadow: 4px 8px 12px rgba(0, 0, 0, 0.15);
+    transition: all 0.2s ease-in-out;
+}
